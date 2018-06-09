@@ -1,0 +1,6 @@
+---===Begin_Idle===---
+file: images/PiggyGreen.png framesX: 2 framesY: 1 beginFrame: 0 endFrame: 1 speed: 500
+---===End_Idle===---
+---===Begin_Death===---
+file: images/pigDeath.png framesX: 3 framesY: 1 beginFrame: 0 endFrame: 2 speed: 500
+---===End_Death===---

@@ -1,0 +1,3 @@
+---===Begin_Anim===---
+file: images/Birds.png framesX: 2 framesY: 1 beginFrame: 0 endFrame: 1 speed: 250
+---===End_Anim===---
