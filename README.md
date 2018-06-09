@@ -14,3 +14,4 @@ made with <img src="http://matthewstyles.com/wp-content/uploads/2018/03/Sdl-logo
 ## Level 3
 ![lvl3](https://user-images.githubusercontent.com/15209098/41193816-c6f40114-6c1a-11e8-839a-b3494fd5c92c.png)
 
+### To run the game, either go to the Executable folder and run the ABirds.exe or open the solution, build and run it for x64
