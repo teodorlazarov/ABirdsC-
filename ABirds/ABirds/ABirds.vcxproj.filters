@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Birds.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxPhysics.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CSDL_Setup.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="myContactListener.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Pigs.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="PigWalls.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Birds.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxPhysics.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="CSDL_Setup.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="myContactListener.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Pigs.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="PigWalls.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{21c6ae80-e77f-44f9-9809-054a04e5603d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
